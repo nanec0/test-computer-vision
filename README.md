@@ -4,6 +4,9 @@
 1. Install the required dependencies:
 
         pip install -r requirements.txt
+        pip install transformers
+        pip install torch
+        pip install timm
 
 2. Obtain an **OpenAI API key**. You can sign up for an API key at [OpenAI](https://platform.openai.com).
 
